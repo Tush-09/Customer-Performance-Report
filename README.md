@@ -1,8 +1,9 @@
-Welcome to the Sales Analysis Report repository for AtliQ Hardware. This report contains a comprehensive analysis of various sales metrics and comparisons to aid in business decision-making.
+This report contains a comprehensive analysis of various sales metrics and comparisons to aid in business decision-making for AtliQ Hardware.
 
 full Fledged Report  Report
 
 📄Objective
+
 1.	Create a Comprehensive Sales Analysis Report:
 
 •	Analyze sales data to generate actionable insights.
@@ -10,11 +11,13 @@ full Fledged Report  Report
 •	Compare performance across different metrics and dimensions.
 
 2.	Empower Business Decisions:
+   
 •	Identify key sales patterns and trends.
 
 •	Facilitate strategic decisions with detailed performance metrics.
 
 🔍 Reports Overview:
+
 •	Customer Performance Report: Analyzes customer performance metrics to identify high and low-performing customers. 
 
 •	Market Performance vs. Target Report: Compares actual market performance against sales targets to identify gaps and opportunities. 
@@ -30,6 +33,7 @@ full Fledged Report  Report
 •	New Products in 2021: Evaluates the performance of newly launched products to inform future product development and marketing strategies.  
 
 ⚡ Technical Skills
+
 •	ETL Methodology
 
 •	Data Modeling
@@ -41,6 +45,7 @@ full Fledged Report  Report
 •	Conditional Formatting
 
 💡 Insights
+
 •	🖋️ Top Customer: Amazon with net sales of 82.1 million USD in 2021, followed by AtliQ Exclusive and AtliQ e-store.
 
 •	🖋️ Top Country: India with net sales amounting to 161.3 million USD in 2021.
