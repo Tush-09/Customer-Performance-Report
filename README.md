@@ -30,16 +30,25 @@ full Fledged Report  Report
 •	New Products in 2021: Evaluates the performance of newly launched products to inform future product development and marketing strategies.  
 
 ⚡ Technical Skills
-•	ETL Methodology:
-•	Data Modeling:
-•	Pivot Table and Power Pivot:
-•	DAX (Data Analysis Expressions):
-•	Conditional Formatting:
+•	ETL Methodology
+
+•	Data Modeling
+
+•	Pivot Table and Power Pivot
+
+•	DAX (Data Analysis Expressions)
+
+•	Conditional Formatting
 
 💡 Insights
 •	🖋️ Top Customer: Amazon with net sales of 82.1 million USD in 2021, followed by AtliQ Exclusive and AtliQ e-store.
+
 •	🖋️ Top Country: India with net sales amounting to 161.3 million USD in 2021.
+
 •	🖋️ Highest Growth Product: AQ Mx NB with the highest percentage increase in net sales from 2020 to 2021.
+
 •	🖋️ Sales Spikes: Significant sales spikes from October to December.
+
 •	🖋️ New Products: 16 new products introduced in 2021, with AQ Qwerty leading sales at 22 million USD.
+
 •	🖋️ Top Division: P&A division recorded the highest net sales, totaling 338.4 million USD in 2021.
