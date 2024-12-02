@@ -2,7 +2,7 @@ This report contains a comprehensive analysis of various sales metrics and compa
 
 full Fledged Report  Report
 
-📄Objective
+# 📄Objective
 
 1.	Create a Comprehensive Sales Analysis Report:
 
@@ -16,7 +16,7 @@ full Fledged Report  Report
 
 •	Facilitate strategic decisions with detailed performance metrics.
 
-🔍 Reports Overview:
+# 🔍 Reports Overview:
 
 •	Customer Performance Report: Analyzes customer performance metrics to identify high and low-performing customers. 
 
@@ -32,7 +32,7 @@ full Fledged Report  Report
  
 •	New Products in 2021: Evaluates the performance of newly launched products to inform future product development and marketing strategies.  
 
-⚡ Technical Skills
+# ⚡ Technical Skills
 
 •	ETL Methodology
 
@@ -44,7 +44,7 @@ full Fledged Report  Report
 
 •	Conditional Formatting
 
-💡 Insights
+# 💡 Insights
 
 •	🖋️ Top Customer: Amazon with net sales of 82.1 million USD in 2021, followed by AtliQ Exclusive and AtliQ e-store.
 
